@@ -1,7 +1,7 @@
 
 # ![LinkedIn cover - 2](https://github.com/priyanshuv-raw/priyanshu-vraw/assets/102889190/179deeab-3100-444c-80fa-9be7bc7741eb)
 <br>
-🔭 I’m currently working on Frugal 🤙🏼<br>🌱 I’m currently learning Design System<br>💬 Ask me about anything related to tech 🖥️
+🔭 I’m currently working on Frugal 🤙🏼<br>🌱 I’m currently learning Design System<br>💬Ask me about anything related to tech 🖥️
 
 
 ## 🌐 Socials:
