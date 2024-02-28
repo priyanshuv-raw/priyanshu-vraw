@@ -1,5 +1,5 @@
+![LinkedIn cover - 11](https://github.com/priyanshuv-raw/priyanshuv-raw/assets/102889190/7c463ed3-c966-4a90-84a8-c1a9f98b3b34)
 
-# ![LinkedIn cover - 2](https://github.com/priyanshuv-raw/priyanshu-vraw/assets/102889190/179deeab-3100-444c-80fa-9be7bc7741eb)
 <br>
 🔭 I’m currently working on JavaScript 🤙<br>🌱 I’m learning Design System 🍥<br>💬 Ask me anything related to tech 🖥️
 
