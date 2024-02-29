@@ -1,7 +1,7 @@
 ![LinkedIn cover - 11](https://github.com/priyanshuv-raw/priyanshuv-raw/assets/102889190/7c463ed3-c966-4a90-84a8-c1a9f98b3b34)
 
 <br>
-🔭 I’m currently working on JavaScript 🤙<br>🌱 I’m learning Design System 🍥<br>💬 Ask me anything related to tech 🖥️
+🔭 I’m currently learning on JavaScript 🤙<br>🌱 And learning Design System 🍥<br>💬 Also you can ask me anything related to tech 🖥️
 
 
 ## 🌐 Socials:
